@@ -119,7 +119,7 @@ The database contains three tables.
 
 
 ```
-<img src="images/your-image-name.png" alt="Project Architecture" width="500">
+<img src="Diagram/E-R Daigram.png" alt="Project Architecture" width="500">
 ---
 ```
 
@@ -296,11 +296,12 @@ Queries/
 
 **Swastik Kumar**
 
-Computer Engineering Student
+**B.E. Computer Engineering**
 
-SQL | PostgreSQL | Power BI | Excel | Python
+**Data Analyst | Excel | SQL | Power BI | Python |**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/SwastikAnalytics
 
-LinkedIn: https://linkedin.com/in/yourprofile
+linkedin: https://www.linkedin.com/in/swastik-kumar-01sep
+
 
