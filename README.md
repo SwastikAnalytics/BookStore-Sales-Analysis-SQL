@@ -118,10 +118,8 @@ The database contains three tables.
 # 📊 Entity Relationship Diagram
 
 
-```
 <img src="Diagram/E-R Daigram.png" alt="Project Architecture" width="500">
----
-```
+
 
 # 📂 Dataset
 
