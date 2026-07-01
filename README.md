@@ -119,8 +119,9 @@ The database contains three tables.
 
 
 ```
-
+<img src="images/your-image-name.png" alt="Project Architecture" width="500">
 ---
+```
 
 # 📂 Dataset
 
