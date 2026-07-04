@@ -250,7 +250,7 @@ BookStore-Sales-Analysis-SQL
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/BookStore-Sales-Analysis-SQL.git
+git clone https://github.com/SwastikAnalytics/BookStore-Sales-Analysis-SQL.git
 ```
 
 ### Open PostgreSQL
